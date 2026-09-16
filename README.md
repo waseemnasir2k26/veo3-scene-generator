@@ -2,6 +2,10 @@
 
 Professional cinematic prompt engineering for Veo-3 video generation.
 
+## Status
+
+Last reviewed: September 2026 · release v2026.09
+
 ---
 
 ## Architecture Overview
