@@ -1,0 +1,4 @@
+- veo3-scene-generator is a public browser-only React 18 + TypeScript + Vite + Tailwind tool that turns a scene configuration into Veo-3 prompts via a five-layer prompt engine. The user's OpenAI key is held in memory and called directly from the client, as the README documents.
+- State: unchanged since the initial commit in February 2026; no live URL stated.
+- Re-reviewed October 2026: README, file tree and commit history re-read; documentation and version metadata only, no code changes. The README has no external links to verify.
+- Known gaps: no tests; no LICENSE (README says proprietary); the lint script calls ESLint but no ESLint config is checked in.
